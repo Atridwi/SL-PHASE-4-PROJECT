@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "phase4"
+		},
+		{
+			"path": "..\\Downloads\\Mini_Project_Phase_Four"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "Mini_Project_Phase_Four"
+	}
+}
